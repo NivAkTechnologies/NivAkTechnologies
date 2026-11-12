@@ -218,17 +218,29 @@ We welcome discussions about mobile apps, websites, digital tools, technical imp
 
 ---
 
+
 ## GitHub & Development Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NivAkTechnologies&show_icons=true&theme=github_dark&hide_border=true&count_private=false)
+### Our Development Ecosystem
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NivAkTechnologies&layout=compact&theme=github_dark&hide_border=true)
+![Flutter](https://img.shields.io/badge/Mobile_Development-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Firebase](https://img.shields.io/badge/Cloud_Services-Firebase-F97316?style=for-the-badge&logo=firebase&logoColor=white)
+![Python](https://img.shields.io/badge/Automation-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Web](https://img.shields.io/badge/Web_Development-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+
+### Explore Our Public Development Work
+
+[![GitHub Repositories](https://img.shields.io/badge/EXPLORE_OUR_GITHUB_REPOSITORIES-0B2346?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NivAkTechnologies?tab=repositories)
+
+**Developing practical software solutions and digital products.**
 
 </div>
 
-*GitHub activity represents public repository contributions. Some commercial and development projects remain private.*
+Our GitHub repositories showcase our official website and selected development work.
+
+Some application source repositories remain private to protect proprietary code and ongoing development.
 
 ---
 
@@ -239,6 +251,7 @@ We welcome discussions about mobile apps, websites, digital tools, technical imp
 Whether you need a new application, a website, improvements to an existing digital product, or a custom technical solution, we welcome project inquiries.
 
 <div align="center">
+
 
 **NIVAK TECHNOLOGIES**
 
